@@ -1,2 +1,2 @@
-node_module/
-package-log.json
+node_modules/
+package-lock.json
